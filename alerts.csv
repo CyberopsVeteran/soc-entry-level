@@ -1,0 +1,6 @@
+alert_id,timestamp,host,user,source,alert_name,severity,status,description
+A-1001,2026-04-18 08:43:11,FIN-WS-07,jcecil,Email Gateway,Suspicious Attachment Delivered,High,Open,Invoice-themed email with macro-enabled attachment delivered to mailbox
+A-1002,2026-04-18 08:47:02,FIN-WS-07,jcecil,EDR,Office Spawned PowerShell,Critical,Open,WINWORD.EXE launched powershell.exe
+A-1003,2026-04-18 08:47:10,FIN-WS-07,jcecil,EDR,Encoded PowerShell Command,Critical,Open,PowerShell launched with -enc parameter
+A-1004,2026-04-18 08:48:01,FIN-WS-07,jcecil,Firewall,Outbound Connection to Rare IP,High,Open,Connection to 185.88.101.42 over port 443
+A-1005,2026-04-18 08:55:30,FIN-WS-07,jcecil,Help Desk,User Reported Suspicious Email,Medium,Closed,User called help desk after system behavior changed

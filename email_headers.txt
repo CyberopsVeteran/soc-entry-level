@@ -1,0 +1,16 @@
+From: Accounts Payable <billing@vendor-payments-example.com>
+To: Jared Cecil <jcecil@company.local>
+Subject: Urgent: Invoice Due April 2026
+Date: Fri, 18 Apr 2026 08:42:13 -0400
+Message-ID: <A1B2C3D4@vendor-payments-example.com>
+Received: from mail.vendor-payments-example.com (unknown [185.88.101.42])
+Return-Path: billing@vendor-payments-example.com
+Reply-To: billing@vendor-payments-example.com
+X-Mailer: Microsoft Outlook 16.0
+Attachment: Invoice_April_2026.docm
+
+Observations:
+- Invoice lure targeted Finance department.
+- Sender domain is not a known approved vendor domain.
+- Attachment uses .docm extension, which supports macros.
+- Infrastructure overlaps with suspicious external IP observed in firewall logs.

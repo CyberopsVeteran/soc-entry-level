@@ -4,7 +4,7 @@
 SOC-2026-0418-001
 
 ## Assigned Analyst
-Your Name Here
+Jared Cecil
 
 ## Summary
 A Finance workstation generated multiple alerts shortly after a suspicious invoice-themed email was delivered. Evidence shows a Microsoft Word document spawned PowerShell with an encoded command, followed by outbound network traffic to a suspicious external IP.

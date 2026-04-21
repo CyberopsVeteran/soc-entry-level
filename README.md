@@ -173,5 +173,6 @@ This repository shows employers that you can:
 - Convert the data into JSONL for easier ingestion into a SIEM
 
 ## Author
-
-Replace this section with your name, LinkedIn, and GitHub profile.
+Jared Cecil 
+Hppts://www.linkedin.com/in/cyberopsveteran
+CyberOpsVeteran37@gmail.com

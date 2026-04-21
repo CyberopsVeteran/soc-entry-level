@@ -184,5 +184,9 @@ CyberOpsVeteran37@gmail.com
 - [Phishing Incident Response Playbook](playbooks/phishing_incident_playbook.md)
 
 
+## 📘 SOC Playbooks
 
-
+- Phishing Incident Response
+- Ransomware Incident Response
+- Insider Threat Investigation
+- Threat Hunting Playbook

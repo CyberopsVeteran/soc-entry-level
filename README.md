@@ -174,5 +174,5 @@ This repository shows employers that you can:
 
 ## Author
 Jared Cecil 
-Hppts://www.linkedin.com/in/cyberopsveteran
+Https://www.linkedin.com/in/cyberopsveteran
 CyberOpsVeteran37@gmail.com

@@ -176,3 +176,13 @@ This repository shows employers that you can:
 Jared Cecil 
 Https://www.linkedin.com/in/cyberopsveteran
 CyberOpsVeteran37@gmail.com
+
+
+
+## 📘 SOC Playbooks
+
+- [Phishing Incident Response Playbook](playbooks/phishing_incident_playbook.md)
+
+
+
+
